@@ -1,0 +1,1 @@
+# TKTSZ2.0_vootingroom1.0
