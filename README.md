@@ -21,6 +21,21 @@ Kis konkurenciára (≈ 11–211 egyidejű felhasználó) optimalizálva, **AI-f
 
 A közösségi vita gyakran szétesik zajban. A Vooting Room célja **kicsi, tiszta, megélhető** deliberációs élmény: strukturált kérdésfelvetés, átlátható thread, többféle szavazás, és **AI, mint tükör és szerkesztő**, nem mint döntéshozó.
 
+🔹 A deliberációs eszköz olyan rendszer, amely nemcsak szavazást tesz lehetővé, hanem támogatja a közös gondolkodást, érvelést és döntés-előkészítést is.
+
+📌 Lényegében nem csak azt kérdezi: „Melyik opciót választod?”, hanem lehetőséget ad arra is, hogy:
+
+- kérdést tegyél fel,
+- érveket hozz és értékelj,
+- megnézd mások álláspontját,
+
+és mindebből közösen jussatok döntésre – nemcsak többségi alapon, hanem megértés mentén.
+
+Ez különbözteti meg a puszta szavazógépektől vagy like-rendszerektől:
+→ a cél nem csupán vélemények összegyűjtése, hanem valódi, átgondolt döntések kialakítása.
+
+🧠 A deliberáció a demokrácia mélyebb formája.
+
 > **AI szerepfilozófia:** az MI **nem dönt**, hanem **segít** – tisztítja a kérdést, szerkeszti a kontextust, szintetizálja a vitát, jelzi a játszmákat, és támogatja a moderációt.
 
 ---
